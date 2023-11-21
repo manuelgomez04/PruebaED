@@ -10,7 +10,8 @@ public class Principal {
 				+ "Dos elefantes se balanceaban sobre la tela de una araaaaaaaaaaaaaaaaaaaña"
 				+ "como veían que no se caían fueron a llamar a otro elefaaaaaaaaaaaaaante"
 				+ "Tres elefantes se balanceaban sobre la tela de una araaaaaaaaaaaaaaaaaaaaaaña"
-				+ "como veían que no se caían fueron a llamar a otro elefaaaaaaaaaaaaaaaante");
+				+ "como veían que no se caían fueron a llamar a otro elefaaaaaaaaaaaaaaaante"
+				+ "Locooo locoooo locoooooooo");
 
 	}
 
