@@ -5,9 +5,12 @@ public class Principal {
 	public static void main(String[] args) {
 		System.out.println("Hola Mundo");
 		System.out.println("Probando probando probando probando");
-		System.out.println("Victor es to pesao que locura tío, encima es to tonto y no se entera de na el coleguita"
-				+ "a ver si espabila de una vez y se calla la boca mi niño x fin xq yo no puedo más ya con su gilipollez "
-				+ "es acojonante enserio loco. Más pesao que una vaca en brazos :)");
+		System.out.println("Un elefante se balanceaba, sobre la tela de una araaaaaaaaaaaaaaaaaaaaaaaaña"
+				+ "como veía que no se caía fue a llamar a otro elefaaaaaaaaaaante"
+				+ "Dos elefantes se balanceaban sobre la tela de una araaaaaaaaaaaaaaaaaaaña"
+				+ "como veían que no se caían fueron a llamar a otro elefaaaaaaaaaaaaaante"
+				+ "Tres elefantes se balanceaban sobre la tela de una araaaaaaaaaaaaaaaaaaaaaaña"
+				+ "como veían que no se caían fueron a llamar a otro elefaaaaaaaaaaaaaaaante");
 
 	}
 
